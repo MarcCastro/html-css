@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+header {
+    background-color: darkgreen;
+    padding: 25px;
+    margin: -8px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+header > p {
+    text-align: center;
+    color: white;
+}
+
+nav {
+    margin-bottom: -17px;
+    margin-left: -15px;
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+main {
+    background-color: white;
+    margin-top: -20px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
